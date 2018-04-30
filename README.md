@@ -1,4 +1,4 @@
-# REST framework tutorial
+# REST framework eosportal API
 
 Source code for the [eosportal API][tut].
 
