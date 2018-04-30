@@ -1,5 +1,5 @@
 {
-  "name": "rest-framework-tutorial",
+  "name": "eosportal_api",
   "scripts": {
     "postdeploy": "python manage.py migrate && ./restore.sh"
   },
